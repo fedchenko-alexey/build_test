@@ -37,3 +37,12 @@
 [submodule "onlyoffice.github.io"]
 	path = onlyoffice.github.io
 	url = https://github.com/ONLYOFFICE/onlyoffice.github.io.git
+[submodule "server"]
+	path = server
+	url = git@github.com:R7-OFFICE/server.git
+[submodule "document-server-package"]
+	path = document-server-package
+	url = git@github.com:ONLYOFFICE/document-server-package.git
+[submodule "document-server-integration"]
+	path = document-server-integration
+	url = git@github.com:ONLYOFFICE/document-server-integration.git
