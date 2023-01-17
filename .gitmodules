@@ -1,0 +1,39 @@
+[submodule "build_tools"]
+	path = build_tools
+	url = git@github.com:R7-OFFICE/build_tools.git
+[submodule "web-apps"]
+	path = web-apps
+	url = git@github.com:R7-OFFICE/web-apps.git
+[submodule "core"]
+	path = core
+	url = git@github.com:R7-OFFICE/core.git
+[submodule "desktop-apps"]
+	path = desktop-apps
+	url = git@github.com:R7-OFFICE/desktop-apps.git
+[submodule "desktop-sdk"]
+	path = desktop-sdk
+	url = git@github.com:R7-OFFICE/desktop-sdk.git
+[submodule "dictionaries"]
+	path = dictionaries
+	url = git@github.com:R7-OFFICE/dictionaries.git
+[submodule "sdkjs"]
+	path = sdkjs
+	url = git@github.com:R7-OFFICE/sdkjs.git
+[submodule "document-templates"]
+	path = document-templates
+	url = git@github.com:R7-OFFICE/document-templates.git
+[submodule "sdkjs-forms"]
+	path = sdkjs-forms
+	url = https://github.com/ONLYOFFICE/sdkjs-forms
+[submodule "R7ModuleLoader"]
+	path = R7ModuleLoader
+	url = git@github.com:R7-OFFICE/R7ModuleLoader.git
+[submodule "R7CryptoModule"]
+	path = R7CryptoModule
+	url = git@github.com:R7-OFFICE/R7CryptoModule.git
+[submodule "R7VoskModule"]
+	path = R7VoskModule
+	url = git@github.com:R7-OFFICE/R7VoskModule.git
+[submodule "onlyoffice.github.io"]
+	path = onlyoffice.github.io
+	url = https://github.com/ONLYOFFICE/onlyoffice.github.io.git
